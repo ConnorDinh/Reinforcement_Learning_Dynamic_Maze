@@ -1,0 +1,4 @@
+algorithm,before_change,after_change,final_50,success_rate,shortcut_rate
+Q-Learning,14.78,14.76,14.67,1.0,0.0
+Dyna-Q,14.62,14.54,14.83,1.0,0.0
+Dyna-Q+,15.99,14.3,5.96,1.0,1.0
